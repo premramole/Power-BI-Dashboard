@@ -81,7 +81,7 @@ Built on the **ClassicModels** sample database with the following tables:
 
 ## 👤 Author
 
-**Your Name**
+**Your Name** Prem Ramole
 [[LinkedIn](https://linkedin.com](https://in.linkedin.com/in/prem-ramole-779088298?utm_source=share&utm_medium=member_mweb&utm_campaign=share_via&utm_content=profile)) · 
 ---
 
